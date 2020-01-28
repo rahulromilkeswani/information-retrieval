@@ -1,0 +1,88 @@
+1) document_reader.py
+
+
+   a) read_documents()  : 
+
+    This method reads the documents in the folder in the folder in sequence. Whitespaces and punctuations are removed.
+    Also the entire text is converted to lower case. 
+
+    It returns a list of preprocessed documents. 
+
+    
+2) file_extractor.py
+
+
+   a) extract_files()  :
+
+    This method extracts the zipped folder to the working directory.
+
+    It returns nothing. 
+
+
+3) get_top_contributors.py
+
+
+    a) get(words_list, number, unique_words_length) :
+
+    This method gets the top words contributing to [number] percent of the words in the [words_list]
+
+    It returns a list of words.
+
+
+4) most_common_words.py
+
+
+    a) get_top(words_list, quantity)  :
+
+    This method gets the top [quantity] words for the frequency dictionary of the [words_list]. 
+
+    It returns a list of dictionary having the word and its frequency.
+
+
+    b) get_top_list(words_list,quantity)  : 
+
+    This method return the top [quantity] words for the frequency dictionary of the [words_list].
+
+    It returns a list of words. 
+
+
+5) stemmer.py
+
+
+    a) get_stemmed_words(words_list)  :
+    
+    This method uses the Potter stemmer to stem words in the [words_list] 
+
+    It returns a list of words. 
+
+
+6) stopword_remover.py 
+
+
+   a) remove(words_list)  :
+   
+    This method reads the stopwords from the stopwords.txt file and removes the stopwords from the [words_list]
+
+    It returns a list of words.
+
+   b) get_difference(words_list)  :
+   
+    This method return the words in [words_list] which are also stopwords. 
+
+    It returns a list of words. 
+
+
+7) tokenizer.py 
+
+
+    a) get_all_tokens(documents) :
+
+    This method tokenizes the [documents] using the nltk tokenizer. 
+
+    It returns a list of words.
+
+   b) get_unique_tokens(words_list) :
+   
+    This method gets all the uniqure tokens in the [word_list]
+
+    It returns a list of words.
