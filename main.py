@@ -7,7 +7,7 @@ import stopwords_remover
 import stemmer
 
 
-#file_extractor.extract_files() 
+file_extractor.extract_files() 
 documents = document_reader.read_documents() 
 all_tokens = tokenizer.get_all_tokens(documents) 
 print("The total number of words in the corpus are : " +str(len(all_tokens)))
