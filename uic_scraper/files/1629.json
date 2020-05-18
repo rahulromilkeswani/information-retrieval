@@ -1,0 +1,12 @@
+{
+    "url": "https://discovery.illinois.edu/discovery/DS?entityID=https%3A%2F%2Fillinois.edu%2Fshibboleth&return=https%3A%2F%2Fforms.uofi.uic.edu%2FShibboleth.sso%2FLogin%3FSAMLDS%3D1%26target%3Dss%253Amem%253A9943f74df33c11ab89287f2d1b03d196baeb842452cd2b56cdd2988cf5aa6a1c",
+    "title": "Illinois Identity Provider Selection",
+    "text": [
+        "University of Illinois at Springfield",
+        "University of Illinois at Urbana-Champaign",
+        "",
+        "Need assistance? Send email to consult@illinois.edu with a description.",
+        ""
+    ],
+    "out_links": []
+}

@@ -1,0 +1,28 @@
+{
+    "url": "https://www.cs.uic.edu/~asudeh/",
+    "title": "Abolfazl Asudeh - Home page",
+    "text": [
+        "",
+        "",
+        "I am an assistant professor at the Computer Science department of the University of Illinois at Chicago",
+        "and the director of Innovative Data Exploration Laboratory (InDeX Lab).",
+        "My research spans to different aspects of Big Data Exploration and Data Science, including data management, information retrieval, and  data mining, for which I aim to find efficient, accurate, and scalable algorithmic solutions.",
+        "Responsible Data Science and Algorithmic Fairness is my current focus in research.",
+        "Besides, my research intersects with topics such as ranking and top-k query processing, compact data representatives, machine learning, web databases, knowledge graphs, and signal reconstruction.",
+        "I (mainly) publish in database flagship venues: SIGMOD, VLDB, and ICDE.",
+        "My research has caught attentions including multiple awards such as CACM's Reserach Highlight, SIGMOD 2019 Research Highlight Award, and the special issue of VLDBJ on the Best of VLDB'18.",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "out_links": [
+        "http://cs.uic.edu/",
+        "http://www.uic.edu/",
+        "https://www.cs.uic.edu/~indexlab",
+        "http://www.cs.uic.edu/~indexlab",
+        "https://www.cs.uic.edu/~indexlab/mithra.htm",
+        "https://www.cs.uic.edu/~indexlab/opening.html",
+        "https://www.cs.uic.edu/~asudeh/industry.htm"
+    ]
+}

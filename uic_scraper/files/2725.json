@@ -1,0 +1,42 @@
+{
+    "url": "https://bits.lab.uic.edu/projects/cache-efficient-index-access-for-large-in-memory-datasets/",
+    "title": "Cache-efficient index access for large in-memory datasets | Bits Lab | University of Illinois at Chicago",
+    "text": [
+        "Many important applications, such as key-value caches and in-memory databases, can service requests at extremely high speed (e.g., 50 million req/sec), which is made possible by hosting all data in main memory and delivering them over fast network. These applications rely on index structures to organize their data. As the index has to be traversed for each request before the target data can be located, the efficiency of index access is performance-critical. Unfortunately, the index can be too large for the CPU cache even with a moderate dataset. What’s worse, the target dataset’s temporal access locality can be compromised by index walks and the spatial locality can also be compromised if hashing is used. While it only takes one sequential memory access to reach the target data, the index traversal can induce tens, sometimes hundreds of LLC misses. Consequently, these applications have to spend a majority of their time on index access instead of delivering the target data over the network, resulting in compromised performance.",
+        "Our efforts on improving index access in data-intensive applications:",
+        "We design a software-defined cache to selectively cache the target entries in indexes, which allows the index traversal to be bypassed when accessing the most frequently accessed items. We name this cache Search Lookaside Buffer, or SLB (2017 Symposium on Cloud Computing).",
+        "We propose a new ordered index structure, named Wormhole, that has a very low asymptotic lookup cost (O(log L), where L is the length of the key). The low cost is achieved by simultaneously leveraging strengths of three index structures, namely hash table, prefix tree, and B+ tree, to orchestrate a single fast ordered index."
+    ],
+    "out_links": [
+        "https://bits.lab.uic.edu/",
+        "http://uic.edu/",
+        "https://bits.lab.uic.edu/projects/",
+        "https://bits.lab.uic.edu/projects/deterministic-multithreading/",
+        "https://bits.lab.uic.edu/projects/delegation-for-efficient-multi-threading/",
+        "https://bits.lab.uic.edu/projects/congestion-control-for-rdma/",
+        "https://bits.lab.uic.edu/projects/tail-latency-in-datacenters/",
+        "https://bits.lab.uic.edu/projects/vehicle-counting/",
+        "https://cloudsweeper.cs.uic.edu/",
+        "https://bits.lab.uic.edu/publications/",
+        "https://bits.lab.uic.edu/join-bits-lab/",
+        "https://bits.lab.uic.edu/lab-direcctory/",
+        "https://bits.lab.uic.edu/contact/",
+        "http://www.cs.uic.edu/",
+        "http://engineering.uic.edu/",
+        "http://maps.uic.edu/",
+        "http://bits.lab.uic.edu/profiles/xingbo-wu-phd/",
+        "https://uic.edu/",
+        "https://catalog.uic.edu/ucat/academic-calendar/",
+        "https://www.uic.edu/apps/departments-az/search",
+        "https://disabilityresources.uic.edu/",
+        "https://emergency.uic.edu/",
+        "https://today.uic.edu/events",
+        "https://uic.edu/about/job-opportunities",
+        "https://library.uic.edu/",
+        "https://maps.uic.edu/",
+        "https://ready.uic.edu/digital-materials/uic-safe-mobile-app/",
+        "https://today.uic.edu/",
+        "https://uihealth.uic.edu/",
+        "https://dos.uic.edu/student-veterans-affairs/"
+    ]
+}

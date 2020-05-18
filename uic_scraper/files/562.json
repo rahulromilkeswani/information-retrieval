@@ -1,0 +1,39 @@
+{
+    "url": "https://emergency.uic.edu/web-alerts/",
+    "title": "Get alerts for websites | Emergency Information",
+    "text": [
+        "When the alert message is minimized, the emergency status page will open in a new browser window. Each subsequent alert will be displayed when it is posted and the information on the emergency status page will be updated.",
+        "",
+        "To integrate UIC web alerts into your website, insert a <script> tag immediately before the closing </body> tag on web pages or templates of your site. If there are no active web alerts, pages will function as usual. The popup will appear only when a UIC web alert is sent by Public Affairs or the UIC Police. Sites with a previous implementation of UIC Alerts do not need to be changed since a redirect is in place, but we encourage webmasters to update their websites to keep current.",
+        "The tag to insert is:",
+        "",
+        "The code is the same whether your site is served over http or https.",
+        "You can preview how the web alert will work on your website by inserting a temporary testing <script> tag. This test is functional and behaves exactly like the live version. If you see an alert, it is inserted correctly. If you minimize the alert you will need to clear your cookies to redisplay the message. Be sure to remove or comment out the test tag when you are finished testing.",
+        "The test script tag to insert is:",
+        "To change the placement of the web alert popup box add the following CSS to your page changing the top and left values to the desired position:",
+        "To change the placement of the emergency minimized box add the following CSS to your page and change the top and right values to the desired position:",
+        "If you have any questions about the emergency web alerts, please contact www@uic.edu.",
+        "Back to Top",
+        "© Copyright 2015-2020 The Board of Trustees of the University of Illinois"
+    ],
+    "out_links": [
+        "http://uic.edu/",
+        "http://www.uic.edu/uic/search/",
+        "http://www.uic.edu/htbin/ulist/az",
+        "http://library.uic.edu/",
+        "https://emergency.uic.edu/",
+        "https://emergency.uic.edu/category/uic-alerts/",
+        "https://emergency.uic.edu/category/public-safety/",
+        "https://emergency.uic.edu/category/campus-general/",
+        "https://emergency.uic.edu/category/monthly-test/",
+        "https://police.uic.edu/",
+        "https://ready.uic.edu/digital-materials/uic-safe-app/",
+        "https://police.uic.edu/crime-data/annual-safety-report/",
+        "https://vcas.uic.edu/extreme-weather-emergency-conditions/",
+        "http://transportation.uic.edu/night-ride/",
+        "https://ready.uic.edu/",
+        "http://disabilityresources.uic.edu/",
+        "http://emergency.uic.edu/",
+        "https://emergency.uic.edu/contact-us/"
+    ]
+}

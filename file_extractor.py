@@ -1,5 +1,11 @@
-def extract_files(): 
-    import zipfile as zf
-    files = zf.ZipFile("citeseer.zip", 'r')
-    files.extractall()
-    files.close()
+import zipfile as zf
+import tarfile
+def extract_files(filename): 
+    if(filename.endswith(".zip")) : 
+        files = zf.ZipFile(filename, 'r')
+        files.extractall()
+        files.close()
+    if(filename.endswith(".tar.gz")) : 
+        tar = tarfile.open(filename)
+        tar.extractall()
+        tar.close()

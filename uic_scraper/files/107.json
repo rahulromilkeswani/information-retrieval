@@ -1,0 +1,6 @@
+{
+    "url": "https://login.microsoftonline.com/common/oauth2/authorize?client_id=00000002-0000-0ff1-ce00-000000000000&redirect_uri=https%3a%2f%2foutlook.office.com%2fowa%2f&resource=00000002-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code+id_token&scope=openid&msafed=0&client-request-id=353b719b-baae-4d8b-bda3-c3dcfe6af070&protectedtoken=true&domain_hint=uic.edu&nonce=637247464570910671.e77a3264-2128-45b1-a44f-95d2134c77f4&state=DctBCsMgFEVRbZfQdZj4v09fHISuxRoDgZRCQbL9ODh3dq0x5jk8ButHDFOggkiI9Fl8okyNLEETnIouDvEjrgC7y3FTCajkDjve1_y7yvz-t3J-137UqW39Bg",
+    "title": "Redirecting",
+    "text": [],
+    "out_links": []
+}

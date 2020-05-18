@@ -1,0 +1,21 @@
+{
+    "url": "https://www.cs.uic.edu/~mansky/",
+    "title": "William Mansky",
+    "text": [
+        "I am working on building tools and techniques for proving the correctness of concurrent C programs, using the Verified Software Toolchain (code here). I aim to prove correctness of realistic concurrent systems code, including web server and database implementations, and to develop simple approaches to reasoning about fine-grained concurrency. I've written an introduction to verifying concurrent programs in VST, available here.",
+        "More generally, I'm interested in bridging the gap between programming and program verification, providing better tools for programmers to understand the effects of code as they write it, and making it easier to verify code as it's written. I'd like to make it possible for every C programmer to write proved-correct code.",
+        "Spring 2020: CS 473, Compiler Design.",
+        "Fall 2019: CS 476, Programming Language Design.",
+        "Spring 2019: CS 494 SF, Software Foundations.",
+        "Fall 2018: CS 476, Programming Language Design."
+    ],
+    "out_links": [
+        "http://cs.uic.edu/",
+        "http://www.uic.edu/",
+        "https://www.cs.uic.edu/~mansky/publications.html",
+        "https://www.cs.uic.edu/~mansky/teaching/cs473/sp20/index.html",
+        "https://www.cs.uic.edu/~mansky/teaching/cs476/fa19/index.html",
+        "https://www.cs.uic.edu/~mansky/teaching/cs494sf/sp19/index.html",
+        "https://www.cs.uic.edu/~mansky/teaching/cs476/fa18/index.html"
+    ]
+}

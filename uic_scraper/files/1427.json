@@ -1,0 +1,22 @@
+{
+    "url": "https://lug.cs.uic.edu/contactUs.html",
+    "title": "LUG at UIC",
+    "text": [
+        "Mailing list archives: archives",
+        "Server: acm.cs.uic.eduChannel: #lug",
+        "URL: luguic.slack.com",
+        "",
+        "LUG shares an office with the UIC ACM in SEL 2264.",
+        "Meetings are in SEL 2260 unless otherwise announced."
+    ],
+    "out_links": [
+        "https://lug.cs.uic.edu/index.html",
+        "https://lug.cs.uic.edu/about.html",
+        "https://lug.cs.uic.edu/events.html",
+        "https://acm.cs.uic.edu/",
+        "http://www.cs.uic.edu/",
+        "http://acm.cs.uic.edu/uicwifi-linux",
+        "http://lug.cs.uic.edu/wiki/",
+        "http://listserv.uic.edu/archives/lug.html"
+    ]
+}

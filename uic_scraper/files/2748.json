@@ -1,0 +1,37 @@
+{
+    "url": "https://nlp.lab.uic.edu/nlp-research/methodology-and-foundational-work/",
+    "title": "Methodology and Foundational Work | Natural Language Processing Laboratory | University of Illinois at Chicago",
+    "text": [
+        "The methodology we employ consists of data mining from corpora, motivated as much by linguistic and cognitive principles as by empirical considerations; development of computational frameworks based on the corpus analysis; and rigorous evaluation of the ensuing software systems. Our work has provided significant contributions to the whole area, including issues of resource creation and validation. The most cited paper from the lab is (Di Eugenio & Glass, 2004), a critical look at the Kappa coefficient of inter annotator agreement. We still strongly believe in marrying linguistic insights and statistics, when we can show that linguistic knowledge results in better models. For example, we developed an innovative discourse parser that incorporates verb semantics and that performs better than models based only on lexical and syntactic information (Subba & Di Eugenio, 2009). This work also resulted in a publicly available corpus of texts annotated with discourse structure (please send inquiries in this regard to bdieugen@uic.edu). Similarly, we explored a variety of parameter settings in different corpora for centering, a theory of reference (Poesio et al., 2004). In work on recognizing dialogue acts, we showed that information about the hierarchical structure of the dialogue (dialogue games) improves empirical models (Di Eugenio et al., 2010b). On the basis of some older work on discourse cues (Di Eugenio et al., 1997), we have recently explored the societal important application of translating from Italian into Italian Sign Language (Lugaresi & Di Eugenio, 2013)."
+    ],
+    "out_links": [
+        "https://nlp.lab.uic.edu/",
+        "http://uic.edu/",
+        "https://nlp.lab.uic.edu/nlp-research/",
+        "https://nlp.lab.uic.edu/nlp-research/nl-for-educational-technology/",
+        "https://nlp.lab.uic.edu/nlp-research/summarization-for-entertainment-and-for-health-care/",
+        "https://nlp.lab.uic.edu/nlp-research/human-robot-interaction/",
+        "https://nlp.lab.uic.edu/people/",
+        "https://nlp.lab.uic.edu/publications/",
+        "https://nlp.lab.uic.edu/resources/",
+        "https://nlp.lab.uic.edu/photos/",
+        "https://nlp.lab.uic.edu/news-2/",
+        "https://www.cs.uic.edu/",
+        "https://engineering.uic.edu/",
+        "https://nlp.lab.uic.edu/resources/contact/",
+        "http://maps.uic.edu/",
+        "https://uic.edu/",
+        "https://catalog.uic.edu/ucat/academic-calendar/",
+        "https://www.uic.edu/apps/departments-az/search",
+        "https://disabilityresources.uic.edu/",
+        "https://emergency.uic.edu/",
+        "https://today.uic.edu/events",
+        "https://uic.edu/about/job-opportunities",
+        "https://library.uic.edu/",
+        "https://maps.uic.edu/",
+        "https://ready.uic.edu/digital-materials/uic-safe-mobile-app/",
+        "https://today.uic.edu/",
+        "https://uihealth.uic.edu/",
+        "https://dos.uic.edu/student-veterans-affairs/"
+    ]
+}

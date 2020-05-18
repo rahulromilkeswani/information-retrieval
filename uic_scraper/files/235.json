@@ -1,0 +1,41 @@
+{
+    "url": "https://login.uic.edu/bluestem/login.cgi?cacheid=1589149678-613418487;return=68747470733a2f2f63732e7569632e6564752f77702d6c6f67696e2e7068703f72656469726563745f746f3d687474707325334125324625324663732e7569632e65647525324677702d61646d696e253246706f73742e706870253346616374696f6e25334465646974253236706f737425334433333536;msg=;prior=1800;RetrieveURL=2f626c75657374656d2f6367692f72657472696576655f617574682e636769;BSVersion=1.6;BSVersionHash=5231a5eb99292f516ba34dc7484e118766d31942;setcookie=1",
+    "title": "UIC User Identification Service",
+    "text": [
+        "",
+        "Contact the ACCC helpdesk at",
+        "consult@uic.edu.",
+        "",
+        "",
+        "Your NetID serves as your login for many University computing",
+        "and networking services and also determines your University",
+        "email address, which is netid@uic.edu.",
+        "For more information, or to claim your NetID, please visit our",
+        "identity webpage.",
+        "",
+        "",
+        "The following servers are authorized to ask for your password:",
+        "",
+        "",
+        "This page's URL should start with https://",
+        "followed by one of the auth servers listed above.",
+        "For most web browsers, the security padlock icon for this page",
+        "should be closed/locked.",
+        "",
+        "",
+        "If you encounter a web page not in the list above that requests",
+        "your UIC password, please contact",
+        "security@uic.edu and include the URL.",
+        "",
+        "",
+        "© University of Illinois Board of Trustees |",
+        "Privacy Policy",
+        ""
+    ],
+    "out_links": [
+        "https://cs.uic.edu/wp-login.php?redirect_to=https%3A%2F%2Fcs.uic.edu%2Fwp-admin%2Fpost.php%3Faction%3Dedit%26post%3D3356",
+        "http://password.uic.edu/",
+        "http://accc.uic.edu/",
+        "http://accc.uic.edu/service/identity-and-access-management"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "url": "https://applygrad.uic.edu/account/login?r=https%3a%2f%2fapplygrad.uic.edu%2fapply%2fstatus",
+    "title": "Login",
+    "text": [
+        "Copyright © 2017 The Board of Trustees of the University of Illinois"
+    ],
+    "out_links": [
+        "https://admissions.uic.edu/",
+        "https://grad.uic.edu/",
+        "https://admissions.uic.edu/graduate-professional/academic-programs",
+        "https://admissions.uic.edu/graduate-professional/apply",
+        "https://applygrad.uic.edu/account/reset?ds=&r=https%3A%2F%2Fapplygrad.uic.edu%2Fapply%2Fstatus&s=",
+        "https://admissions.uic.edu/graduate-professional/contact-graduate-and-professional-admissions",
+        "https://admissions.uic.edu/graduate-professional/faq",
+        "http://disabilityresources.uic.edu/",
+        "http://uic.edu/"
+    ]
+}

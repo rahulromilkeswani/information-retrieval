@@ -1,0 +1,23 @@
+{
+    "url": "https://etd.uic.edu/",
+    "title": "UIC Thesis and Dissertation Submission System - Home",
+    "text": [
+        "To get started with your submission, click the link below. You will be asked to authenticate using your UIC netID:",
+        "",
+        "",
+        "",
+        "Contact Us |",
+        "Graduate College Thesis Office |",
+        "University Library |",
+        "ACCC |",
+        "Office of the Provost",
+        ""
+    ],
+    "out_links": [
+        "http://grad.uic.edu/",
+        "https://etd.uic.edu/login",
+        "http://library.uic.edu/",
+        "http://accc.uic.edu/",
+        "http://provost.uic.edu/"
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "url": "http://renambot.lakephoto.org/",
+    "title": "Luc Renambot – My site",
+    "text": [
+        "This is an example of a homepage section. Homepage sections can be any page other than the homepage itself, including the page that shows your latest blog posts.",
+        "You might be an artist who would like to introduce yourself and your work here or maybe you’re a business with a mission to describe.",
+        "Welcome to WordPress. This is your first post. Edit or delete it, then start writing!",
+        "This is a page with some basic contact information, such as an address and phone number. You might also try a plugin to add a contact form.",
+        "Address",
+        "123 Main Street",
+        "New York, NY 10001",
+        "Hours",
+        "Monday—Friday: 9:00AM–5:00PM",
+        "Saturday & Sunday: 11:00AM–3:00PM",
+        "This may be a good place to introduce yourself and your site or include some credits."
+    ],
+    "out_links": []
+}

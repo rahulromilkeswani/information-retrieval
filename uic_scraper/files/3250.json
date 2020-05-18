@@ -1,0 +1,41 @@
+{
+    "url": "https://www.cs.uic.edu/~liub/WebMiningBook.html",
+    "title": "Web Data Mining, book by Bing Liu",
+    "text": [
+        "Here is a  review  of the book by Prof. Olfa Nasraoui, published in SIGKDD Explorations, Volume 10, Issue 2, 2009. (I found this on the Web).",
+        "If you need an evaluation copy for teaching a course, please drop me an email. I can connect you to the publisher to get a copy. You can also get it from this page.",
+        "If you need an evaluation copy for teaching a course, please drop me an email. I can connect you to the publisher to get a copy. You can also get it from this page.",
+        "Chapters 8 was written by Prof. Filippo Menczer. Chapter 12 was mainly written by Prof. Bamshad Mobasher  and Prof. Olfa Nasraoui (second edition) except the recommender systems section for which they also helped. Prof. Wee Sun Lee helped a great deal in the writing of Chapter 5. They are all international experts in their fields.",
+        "",
+        "",
+        "",
+        "Lecture Slides",
+        "Chapter 2,",
+        "Chapter 3,",
+        "Chapter 4,",
+        "Chapter 5,",
+        "Chapter 6,",
+        "Chapter 7,",
+        "",
+        "Chapter 8,",
+        "Chapter 9,",
+        "Chapter 10,",
+        "Chapter 11, Chapter 12.",
+        "",
+        "You may be interested in some talks below",
+        "",
+        "ACM SIGKDD Inaugural Webcast: Web Content Mining",
+        "A tutorial given at WWW-05 and WISE-05",
+        "New Book: Sentiment Anlaysis and Opinion Mining, Morgan & Claypool, 2012.",
+        "Many talks on opinion mining and sentiment analysis",
+        "Of course, the book covers a lot more topics and algorithms, and also more up-to-date.",
+        "",
+        ""
+    ],
+    "out_links": [
+        "http://www.cs.uic.edu/~liub",
+        "http://www.cs.uic.edu/~liub/WCM-Refs.html",
+        "http://www.cs.uic.edu/~liub/WebContentMining.html",
+        "http://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html"
+    ]
+}

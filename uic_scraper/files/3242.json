@@ -1,0 +1,23 @@
+{
+    "url": "https://bdsc.lab.uic.edu/nsf1909323.html",
+    "title": "Big Data and Social Computing Lab",
+    "text": [
+        "Research Challenges: The ability to understand, reason and generalize is central to human intelligence. However, it possesses great challenges for the machine to detect, annotate and model user intentions from diversely expressed utterances, especially under scare annotations. The proposed study provides major advancements to the foundation of intention mining with a special focus on alleviating annotation scarcity, by formulating the definitions and paradigms that faciliate further research. Also, the data-driven intention mining tasks proposed here will significantly enhance and streamline existing paradigms that can be directly applied to various scenarios in not only questions answering, but also dialogue systems and chat-bots that involve either human-human or human-machine interactions.",
+        "Publications:",
+        "Chenwei Zhang, Yaliang Li, Nan Du, Wei Fan, Philip S. Yu. Joint Slot Filling and Intent Detection via Capsule Neural Networks. In Proceedings of the 57th Annual Meeting of the Association for Computational Linguistics (ACL), 2019. [Paper] [Poster] [Code&Data]",
+        "Congying Xia*, Chenwei Zhang*, Xiaohui Yan, Yi Chang, and Philip Yu. Zero-shot User Intent Detection via Capsule Neural Networks. In Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2018. (* denotes equal contribution) [Paper]  [Video] [Code&Data]",
+        "Chenwei Zhang, Wei Fan, Nan Du, Yaliang Li, Chun-Ta Lu, and Philip S. Yu. Bringing Semantic Structures to User Intent Detection in Online Medical Queries. In Proceedings of the IEEE International Conference on Big Data (Big Data), 2017. [Paper]  [Slides]",
+        "Chenwei Zhang, Wei Fan, Nan Du and Philip S. Yu. Mining User Intentions from Medical Queries: A Neural Network Based Heterogeneous Jointly Modeling Approach. In Proceedings of the 25th International World Wide Web Conference (WWW), 2016.  [Paper]  [Slides]",
+        "",
+        "Acknowledgement: This material is based upon work supported by the National Science Foundation under Grant No. (NSF 1909323).",
+        "Disclaimer:  Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.",
+        "© BDSC Lab. All rights reserved. | Maintained by He Huang | Design by TEMPLATED | Images by Unsplash."
+    ],
+    "out_links": [
+        "https://bdsc.lab.uic.edu/index.html",
+        "https://bdsc.lab.uic.edu/projects.html",
+        "https://bdsc.lab.uic.edu/publications.html",
+        "https://bdsc.lab.uic.edu/people.html",
+        "https://cs.uic.edu/profiles/philip-yu/"
+    ]
+}

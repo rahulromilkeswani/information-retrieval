@@ -1,0 +1,42 @@
+{
+    "url": "https://ethos.lab.uic.edu/background/getting-started/",
+    "title": "Getting Started | Ethos Laboratory | University of Illinois at Chicago",
+    "text": [
+        "Ethos is an open source project, but we are not yet ready to release the source code. Here are our research plans:",
+        "Public information about the project consists of these these web pages and papers published in conferences. We are still publishing our results. Since we spent all this time building Ethos, we would like to be the first to measure it and write about it.",
+        "For the latter task, you will need to generate and submit an SSH public key.",
+        "This repository gets all our other repositories. You’ll need make, git, echo, and a bourne shell to pull the repos.",
+        "Ethos is implemented on top of Xen, a Virtual Machine Monitor (VMM). Xen is a bare-metal VMM, which means it runs directly on the hardware. Xen is relatively small, many services (especially device drivers) needed to implement the VMM are contain in a privileged OS called Dom0. Thus it is necessary to install Dom0 (Linux), Xen, and Ethos.",
+        "You can install Xen/Dom0/Ethos on bare-metal. This may be too disruptive to your system, so the alternative is to run Xen/Dom0/Ethos within a hosted VM such as VMWare. (VMWare provides a site licence which is free to students at UIC). In such a case you’ll be running two VMMs and three OSs, you should have at least 4GB of memory for this (more is better). Xen and Dom0 can be 64-bit OSs; Ethos runs as either 32-bit or 64-bit OS.",
+        "Confused? It takes a bit to get used to this. We’re happy to help you get Ethos up and going. We’ve also built some aids to help you get started.",
+        "Once you decide how to install Ethos (bare metal or VMware), you install a linux distribution. One Ethos developer, Mike, is also a Fedora maintainer and he’s built a set of scripts to set up Fedora easily so that’s what we all tend to use.",
+        "Ethos is built from source code. The source code is spread over many git repositories. To make things easier, you get the ethos git repo, and then ethos will pull and build all the needed repos."
+    ],
+    "out_links": [
+        "https://ethos.lab.uic.edu/",
+        "http://uic.edu/",
+        "https://ethos.lab.uic.edu/people/",
+        "https://ethos.lab.uic.edu/projects/",
+        "https://ethos.lab.uic.edu/papers/",
+        "https://ethos.lab.uic.edu/background/",
+        "https://ethos.lab.uic.edu/background/paper-reading-seminar/",
+        "https://ethos.lab.uic.edu/background/binary-install-into-virtualbox/",
+        "https://ethos.lab.uic.edu/background/the-advanced-programming-seminar-series/",
+        "https://www.cs.uic.edu/",
+        "https://engineering.uic.edu/",
+        "http://maps.uic.edu/",
+        "https://uic.edu/",
+        "https://catalog.uic.edu/ucat/academic-calendar/",
+        "https://www.uic.edu/apps/departments-az/search",
+        "https://disabilityresources.uic.edu/",
+        "https://emergency.uic.edu/",
+        "https://today.uic.edu/events",
+        "https://uic.edu/about/job-opportunities",
+        "https://library.uic.edu/",
+        "https://maps.uic.edu/",
+        "https://ready.uic.edu/digital-materials/uic-safe-mobile-app/",
+        "https://today.uic.edu/",
+        "https://uihealth.uic.edu/",
+        "https://dos.uic.edu/student-veterans-affairs/"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "url": "https://www.cs.uic.edu/~beshete/",
+    "title": "Birhanu Eshete",
+    "text": [
+        "",
+        "I am a Postdoctoral Researcher in the Computer Science department at the University of Illinois at Chicago. I am a member of the Systems and Internet Security Lab directed by Prof. Venkat Venkatakrishnan. I am currently involved in the MALDIVES (NSF) and MARPLE (DARPA) projects. I earned my Ph.D. in Computer Science from the  University of Trento in 2013 under the supervision of Adolfo Villafiorita. I received my M.Sc. and B.Sc. in Computer Science from Addis Ababa University.",
+        "",
+        "",
+        "",
+        "My research interests include",
+        "systems security (focus: Web, Mobile, APTs), cybercrime analysis (malicious sites/URLs, exploit kits, ransomware), data-driven security, and machine learning for security. My Ph.D. dissertation leverages honeyclient emulation and machine learning for effective analysis, characterization, and detection of web-borne malware. I have also developed defense and counter-offense techniques against exploit kits. Currently, I am focusing on systematic understanding of the end-to-end machinery of malware delivery mechanisms on the Internet. I am also exploring intelligence-driven analytics to defend enterprise systems from targeted cyber-attacks.",
+        ""
+    ],
+    "out_links": [
+        "https://www.cs.uic.edu/~beshete/index.html",
+        "https://www.cs.uic.edu/~beshete/publications.html",
+        "https://www.cs.uic.edu/~beshete/service.html",
+        "https://www.cs.uic.edu/~beshete/talks.html",
+        "https://www.cs.uic.edu/~beshete/tools.html",
+        "https://sisl.rites.uic.edu/",
+        "http://cs.uic.edu/",
+        "http://sisl.rites.uic.edu/",
+        "http://www.cs.uic.edu/~venkat",
+        "https://sisl.rites.uic.edu/projects/maldives/",
+        "https://sisl.rites.uic.edu/projects/marple/"
+    ]
+}
